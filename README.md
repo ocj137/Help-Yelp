@@ -2,4 +2,4 @@
 
 Help Yelp
 
-In this project I will be investigating a small version of the Yelp challenge dataset. I'll be using classification algorithms, cross-validation, gridsearching – all that good stuff.
+In this project I investigate a small version of the Yelp challenge dataset. I use classification algorithms, cross-validation, gridsearching – all that good stuff.
